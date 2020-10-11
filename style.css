@@ -1,6 +1,10 @@
+body{
+    style="background-color:rgb(250, 229, 170);"
+}
+
 h1{
     font-size: 60px;
-    background-color: black;
+    font-family: Geneva;
     color: white;
     text-align: center;
     text-decoration: underline;
@@ -8,6 +12,7 @@ h1{
 
 h2{
     font-size:40px;
+    font-family: Geneva;
     text-align: center;
     border: solid;
     border-width: 10px;
@@ -15,10 +20,17 @@ h2{
 
 h3{
     font-size: 20px;
+    font-family: Geneva;
     text-align: center;
 }
 
 p{
-    background-color: green;
-    color: white;
+    text-align: center;
+    color: black;
+}
+
+img{
+    text-align: center;
+    width: 15%;
+    
 }
