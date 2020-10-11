@@ -26,11 +26,18 @@ h3{
 
 p{
     text-align: center;
+    font-family: Geneva;
     color: black;
 }
 
 img{
-    text-align: center;
+    box-align: center;
     width: 15%;
-    
+
+}
+
+ul{
+    text-align: center;
+    font-family: Geneva;
+    color: black;
 }
