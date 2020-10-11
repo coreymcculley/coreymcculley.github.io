@@ -11,7 +11,7 @@ h1{
 }
 
 h2{
-    font-size:40px;
+    font-size:80px;
     font-family: Geneva;
     text-align: center;
     border: solid;
@@ -20,7 +20,7 @@ h2{
 }
 
 h3{
-    font-size: 20px;
+    font-size: 35px;
     font-family: Geneva;
     text-align: center;
 }
@@ -29,6 +29,7 @@ p{
     text-align: center;
     font-family: Geneva;
     color: black;
+    font-size: 25px;
 }
 
 .center {
@@ -44,8 +45,10 @@ ul {
     text-align: center;
     list-style:none;  
     font-family: Geneva;
-    color: black;              
+    color: black; 
+    font-size: 25px;             
 }
 ul  li {
-    padding: 2px 5px;               
+    padding: 2px 5px;
+    font-size: 25px;               
 }
