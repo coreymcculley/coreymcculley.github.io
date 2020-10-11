@@ -30,14 +30,21 @@ p{
     color: black;
 }
 
-img{
-    box-align: center;
-    width: 15%;
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 
-}
-
-ul{
+ul {
+    margin:0;
+    padding:0;
     text-align: center;
+    list-style:none;  
     font-family: Geneva;
-    color: black;
+    color: black;              
+}
+ul  li {
+    padding: 2px 5px;               
 }
